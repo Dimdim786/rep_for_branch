@@ -7,5 +7,9 @@ public class Main {
 
         int a = s.nextInt();
         int b = s.nextInt();
+
+        int c = a + b;
+
+
     }
 }
