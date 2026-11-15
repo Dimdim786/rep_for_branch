@@ -9,5 +9,8 @@ public class Main {
         System.out.println("Сложение");
         int a = s.nextInt();
         System.out.println(c.add(a, a));
+
+        System.out.println("Вычитание");
+        System.out.println(c.subtract(a, a));
     }
 }
