@@ -15,5 +15,7 @@ public class Main {
 
         System.out.println("Умножение");
         System.out.println(c.multiply(a, a));
+
+        System.out.println("Для 3 задания");
     }
 }
