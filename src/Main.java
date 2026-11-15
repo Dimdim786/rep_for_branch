@@ -12,5 +12,8 @@ public class Main {
 
         System.out.println("Вычитание");
         System.out.println(c.subtract(a, a));
+
+        System.out.println("Умножение");
+        System.out.println(c.multiply(a, a));
     }
 }
